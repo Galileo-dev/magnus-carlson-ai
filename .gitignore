@@ -4,3 +4,4 @@
 *.pth
 *.pkl
 *.csv
+/venv
